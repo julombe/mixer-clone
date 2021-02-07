@@ -46,7 +46,16 @@ header .right-menu {
 header .right-menu .language {
     color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
-    padding: 0 10px;
+    padding: 0 40px;
     text-transform: uppercase;
    }
+header .right-menu .signin {
+    background: #0375d5;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
 }
