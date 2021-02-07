@@ -11,7 +11,7 @@ html, body {
 header {
     display: flex;
     justify-content: space-between;
-    padding: 30px 0;
+    padding: 30px;
 }
 
 header .left-menu {
@@ -38,5 +38,15 @@ header .left-menu .menu a {
  }
 
 header .right-menu {
-    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+header .right-menu .language {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    padding: 0 10px;
+    text-transform: uppercase;
+   }
 }
