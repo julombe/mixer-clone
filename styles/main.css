@@ -16,6 +16,11 @@ header .left-menu {
     display: flex;
 }
 
+header .left-menu .logo {
+    font-size: 2rem;
+    color: white;
+}
+
 header .right-menu {
     background: rgba(255, 0, 0, 0.5);
 }
