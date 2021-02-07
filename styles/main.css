@@ -15,7 +15,6 @@ header {
 }
 
 header .left-menu {
-    background: rgba(0, 0, 0, 0.5);
     display: flex;
 }
 
@@ -24,6 +23,20 @@ header .left-menu .logo {
     color: white;
 }
 
+header .left-menu .menu {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 0 50px;
+}
+
+header .left-menu .menu a {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  padding: 0 10px;
+  text-transform: uppercase;
+ }
+
 header .right-menu {
-    background: rgba(255, 0, 0, 0.5);
+    
 }
