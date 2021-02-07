@@ -4,4 +4,13 @@
 header {
     display: flex;
     justify-content: space-between;
+    padding: 30px;
+}
+
+header .left-menu {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+header .right-menu {
+    background: rgba(255, 0, 0, 0.5);
 }
