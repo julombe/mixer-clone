@@ -135,6 +135,12 @@ padding: 50px 0;
 
     padding: 20px;
   } 
+
+  #featured .videos-section .video:nth-child(1) .image .arrow .fa{
+  font-size: 3rem;
+  color: #00b4f0;
+  } 
+  
   
 
 
