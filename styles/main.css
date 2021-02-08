@@ -92,6 +92,9 @@ header .right-menu .signin {
     height: 300px;
     /*background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1teilvhV2Ft3ZsWkPzakPxU1DpBFefLND8A&usqp=CAU");*/
     background: url("https://i.ytimg.com/vi/uHIbVvFTSYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 } 
 
 
@@ -105,6 +108,7 @@ header .right-menu .signin {
     width: 100%;
     height: 349px;
     background: url("https://i.ytimg.com/vi/GT6ushVNkGY/maxresdefault.jpg");
+    transform: scale(1.05);
 } 
 
 
