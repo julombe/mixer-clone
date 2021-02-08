@@ -109,6 +109,7 @@ header .right-menu .signin {
     height: 349px;
     background: url("https://i.ytimg.com/vi/GT6ushVNkGY/maxresdefault.jpg");
     transform: scale(1.05);
+    border: 2px solid #00b4f0;
 } 
 
 
