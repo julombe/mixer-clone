@@ -128,7 +128,7 @@ padding: 50px 0;
 #featured .videos-section .video:nth-child(1) .image .arrow{
     height: 100%;
     position: absolute;
-    background: red;
+    background: rgba(0, 0, 0, 0.5);
     display: flex;
     justify-content: center;
     align-items: center;
