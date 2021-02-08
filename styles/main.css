@@ -121,16 +121,19 @@ padding: 50px 0;
 
 
 
-#featured .videos-section .video:nth-child(1){
+#featured .videos-section .video:nth-child(1) .image{
   position: relative;
 } 
 
-#featured .videos-section .video:nth-child(1){
+#featured .videos-section .video:nth-child(1) .image .arrow{
+    height: 100%;
     position: absolute;
     background: red;
     display: flex;
     justify-content: center;
     align-items: center;
+
+    padding: 20px;
   } 
   
 
