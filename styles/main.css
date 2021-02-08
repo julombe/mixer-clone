@@ -134,7 +134,7 @@ padding: 50px 0;
     justify-content: center;
     align-items: center;
 
-    padding: 20px;
+    padding: 10px;
     
   }
   
@@ -146,13 +146,13 @@ padding: 50px 0;
     justify-content: center;
     align-items: center;
 
-    padding: 20px;
+    padding: 10px;
     right: 0;
   } 
 
   #featured .videos-section .video:nth-child(1) .image .arrow .fa, 
   #featured .videos-section .video:nth-child(5) .image .arrow .fa {
-  font-size: 3rem;
+  font-size: 4rem;
   color: #00b4f0;
   } 
   
